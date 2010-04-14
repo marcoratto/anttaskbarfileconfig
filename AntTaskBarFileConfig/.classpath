@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-antlr.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-apache-bcel.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-apache-bsf.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-apache-log4j.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-apache-oro.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-apache-regexp.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-apache-resolver.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-apache-xalan2.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-commons-logging.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-commons-net.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-jai.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-javamail.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-jdepend.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-jmf.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-jsch.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-junit.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-launcher.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-netrexx.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-nodeps.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-stylebook.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-swing.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-testutil.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant-trax.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/ant.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/xercesImpl.jar"/>
+	<classpathentry kind="var" path="ANT_HOME/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="lib/xalan-j_2_7_1/serializer.jar"/>
+	<classpathentry kind="lib" path="lib/xalan-j_2_7_1/xalan.jar"/>
+	<classpathentry kind="lib" path="lib/xalan-j_2_7_1/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="lib/xalan-j_2_7_1/xml-apis.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
