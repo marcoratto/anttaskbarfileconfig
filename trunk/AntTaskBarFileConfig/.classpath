@@ -10,7 +10,6 @@
 	<classpathentry kind="var" path="ANT_HOME/lib/ant-apache-oro.jar"/>
 	<classpathentry kind="var" path="ANT_HOME/lib/ant-apache-regexp.jar"/>
 	<classpathentry kind="var" path="ANT_HOME/lib/ant-apache-resolver.jar"/>
-	<classpathentry kind="var" path="ANT_HOME/lib/ant-apache-xalan2.jar"/>
 	<classpathentry kind="var" path="ANT_HOME/lib/ant-commons-logging.jar"/>
 	<classpathentry kind="var" path="ANT_HOME/lib/ant-commons-net.jar"/>
 	<classpathentry kind="var" path="ANT_HOME/lib/ant-jai.jar"/>
@@ -33,5 +32,6 @@
 	<classpathentry kind="lib" path="lib/xalan-j_2_7_1/xalan.jar"/>
 	<classpathentry kind="lib" path="lib/xalan-j_2_7_1/xercesImpl.jar"/>
 	<classpathentry kind="lib" path="lib/xalan-j_2_7_1/xml-apis.jar"/>
+	<classpathentry kind="var" path="ANT_HOME"/>
 	<classpathentry kind="output" path="classes"/>
 </classpath>
